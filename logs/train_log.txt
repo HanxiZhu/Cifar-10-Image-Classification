@@ -1,0 +1,100 @@
+Epoch 001 | learning rate: 0.0500 | Train Loss: 1.9651 | Train Acc: 0.2919 | Epoch Time: 28.71 s
+Epoch 002 | learning rate: 0.0475 | Train Loss: 1.7960 | Train Acc: 0.3680 | Epoch Time: 28.52 s
+Epoch 003 | learning rate: 0.0475 | Train Loss: 1.7326 | Train Acc: 0.3896 | Epoch Time: 28.68 s
+Epoch 004 | learning rate: 0.0451 | Train Loss: 1.6902 | Train Acc: 0.4079 | Epoch Time: 28.78 s
+Epoch 005 | learning rate: 0.0451 | Train Loss: 1.6598 | Train Acc: 0.4190 | Valid Loss: 1.6623 | Valid Acc: 0.4190 | Epoch Time: 28.43 s
+Epoch 006 | learning rate: 0.0429 | Train Loss: 1.6365 | Train Acc: 0.4256 | Epoch Time: 28.68 s
+Epoch 007 | learning rate: 0.0429 | Train Loss: 1.6164 | Train Acc: 0.4317 | Epoch Time: 28.55 s
+Epoch 008 | learning rate: 0.0407 | Train Loss: 1.6003 | Train Acc: 0.4389 | Epoch Time: 28.53 s
+Epoch 009 | learning rate: 0.0407 | Train Loss: 1.5834 | Train Acc: 0.4418 | Epoch Time: 28.52 s
+Epoch 010 | learning rate: 0.0387 | Train Loss: 1.5713 | Train Acc: 0.4456 | Valid Loss: 1.6292 | Valid Acc: 0.4220 | Epoch Time: 28.61 s
+Epoch 011 | learning rate: 0.0387 | Train Loss: 1.5603 | Train Acc: 0.4525 | Epoch Time: 28.62 s
+Epoch 012 | learning rate: 0.0368 | Train Loss: 1.5508 | Train Acc: 0.4505 | Epoch Time: 28.68 s
+Epoch 013 | learning rate: 0.0368 | Train Loss: 1.5419 | Train Acc: 0.4570 | Epoch Time: 28.77 s
+Epoch 014 | learning rate: 0.0349 | Train Loss: 1.5319 | Train Acc: 0.4606 | Epoch Time: 28.72 s
+Epoch 015 | learning rate: 0.0349 | Train Loss: 1.5235 | Train Acc: 0.4615 | Valid Loss: 1.5376 | Valid Acc: 0.4485 | Epoch Time: 28.73 s
+Epoch 016 | learning rate: 0.0332 | Train Loss: 1.5181 | Train Acc: 0.4645 | Epoch Time: 28.76 s
+Epoch 017 | learning rate: 0.0332 | Train Loss: 1.5099 | Train Acc: 0.4673 | Epoch Time: 28.64 s
+Epoch 018 | learning rate: 0.0315 | Train Loss: 1.5078 | Train Acc: 0.4683 | Epoch Time: 28.52 s
+Epoch 019 | learning rate: 0.0315 | Train Loss: 1.4981 | Train Acc: 0.4734 | Epoch Time: 28.46 s
+Epoch 020 | learning rate: 0.0299 | Train Loss: 1.4955 | Train Acc: 0.4742 | Valid Loss: 1.5834 | Valid Acc: 0.4430 | Epoch Time: 28.66 s
+Epoch 021 | learning rate: 0.0299 | Train Loss: 1.4913 | Train Acc: 0.4771 | Epoch Time: 28.58 s
+Epoch 022 | learning rate: 0.0284 | Train Loss: 1.4873 | Train Acc: 0.4757 | Epoch Time: 28.53 s
+Epoch 023 | learning rate: 0.0284 | Train Loss: 1.4844 | Train Acc: 0.4773 | Epoch Time: 28.73 s
+Epoch 024 | learning rate: 0.0270 | Train Loss: 1.4799 | Train Acc: 0.4780 | Epoch Time: 28.49 s
+Epoch 025 | learning rate: 0.0270 | Train Loss: 1.4724 | Train Acc: 0.4818 | Valid Loss: 1.5007 | Valid Acc: 0.4585 | Epoch Time: 28.66 s
+Epoch 026 | learning rate: 0.0257 | Train Loss: 1.4759 | Train Acc: 0.4797 | Epoch Time: 28.70 s
+Epoch 027 | learning rate: 0.0257 | Train Loss: 1.4703 | Train Acc: 0.4840 | Epoch Time: 29.02 s
+Epoch 028 | learning rate: 0.0244 | Train Loss: 1.4697 | Train Acc: 0.4821 | Epoch Time: 28.43 s
+Epoch 029 | learning rate: 0.0244 | Train Loss: 1.4678 | Train Acc: 0.4842 | Epoch Time: 28.51 s
+Epoch 030 | learning rate: 0.0232 | Train Loss: 1.4614 | Train Acc: 0.4839 | Valid Loss: 1.5215 | Valid Acc: 0.4665 | Epoch Time: 28.50 s
+Epoch 031 | learning rate: 0.0232 | Train Loss: 1.4588 | Train Acc: 0.4841 | Epoch Time: 28.57 s
+Epoch 032 | learning rate: 0.0220 | Train Loss: 1.4579 | Train Acc: 0.4864 | Epoch Time: 28.57 s
+Epoch 033 | learning rate: 0.0220 | Train Loss: 1.4538 | Train Acc: 0.4875 | Epoch Time: 28.60 s
+Epoch 034 | learning rate: 0.0209 | Train Loss: 1.4557 | Train Acc: 0.4878 | Epoch Time: 28.57 s
+Epoch 035 | learning rate: 0.0209 | Train Loss: 1.4515 | Train Acc: 0.4893 | Valid Loss: 1.5229 | Valid Acc: 0.4620 | Epoch Time: 28.87 s
+Epoch 036 | learning rate: 0.0199 | Train Loss: 1.4520 | Train Acc: 0.4880 | Epoch Time: 28.55 s
+Epoch 037 | learning rate: 0.0199 | Train Loss: 1.4471 | Train Acc: 0.4899 | Epoch Time: 28.89 s
+Epoch 038 | learning rate: 0.0189 | Train Loss: 1.4487 | Train Acc: 0.4877 | Epoch Time: 28.67 s
+Epoch 039 | learning rate: 0.0189 | Train Loss: 1.4450 | Train Acc: 0.4914 | Epoch Time: 28.65 s
+Epoch 040 | learning rate: 0.0179 | Train Loss: 1.4405 | Train Acc: 0.4921 | Valid Loss: 1.4857 | Valid Acc: 0.4765 | Epoch Time: 28.64 s
+Epoch 041 | learning rate: 0.0179 | Train Loss: 1.4419 | Train Acc: 0.4941 | Epoch Time: 28.73 s
+Epoch 042 | learning rate: 0.0170 | Train Loss: 1.4423 | Train Acc: 0.4931 | Epoch Time: 28.76 s
+Epoch 043 | learning rate: 0.0170 | Train Loss: 1.4343 | Train Acc: 0.4957 | Epoch Time: 28.83 s
+Epoch 044 | learning rate: 0.0162 | Train Loss: 1.4356 | Train Acc: 0.4970 | Epoch Time: 28.78 s
+Epoch 045 | learning rate: 0.0162 | Train Loss: 1.4332 | Train Acc: 0.4953 | Valid Loss: 1.4968 | Valid Acc: 0.4685 | Epoch Time: 28.98 s
+Epoch 046 | learning rate: 0.0154 | Train Loss: 1.4333 | Train Acc: 0.4972 | Epoch Time: 28.82 s
+Epoch 047 | learning rate: 0.0154 | Train Loss: 1.4298 | Train Acc: 0.4955 | Epoch Time: 28.94 s
+Epoch 048 | learning rate: 0.0146 | Train Loss: 1.4298 | Train Acc: 0.4982 | Epoch Time: 28.89 s
+Epoch 049 | learning rate: 0.0146 | Train Loss: 1.4269 | Train Acc: 0.4957 | Epoch Time: 28.86 s
+Epoch 050 | learning rate: 0.0139 | Train Loss: 1.4273 | Train Acc: 0.4986 | Valid Loss: 1.4806 | Valid Acc: 0.4690 | Epoch Time: 28.97 s
+Epoch 051 | learning rate: 0.0139 | Train Loss: 1.4248 | Train Acc: 0.5005 | Epoch Time: 28.97 s
+Epoch 052 | learning rate: 0.0132 | Train Loss: 1.4238 | Train Acc: 0.4992 | Epoch Time: 28.93 s
+Epoch 053 | learning rate: 0.0132 | Train Loss: 1.4246 | Train Acc: 0.4977 | Epoch Time: 28.98 s
+Epoch 054 | learning rate: 0.0125 | Train Loss: 1.4241 | Train Acc: 0.4974 | Epoch Time: 29.02 s
+Epoch 055 | learning rate: 0.0125 | Train Loss: 1.4218 | Train Acc: 0.4990 | Valid Loss: 1.5994 | Valid Acc: 0.4395 | Epoch Time: 29.01 s
+Epoch 056 | learning rate: 0.0119 | Train Loss: 1.4226 | Train Acc: 0.4982 | Epoch Time: 29.05 s
+Epoch 057 | learning rate: 0.0119 | Train Loss: 1.4172 | Train Acc: 0.5014 | Epoch Time: 28.77 s
+Epoch 058 | learning rate: 0.0113 | Train Loss: 1.4181 | Train Acc: 0.5023 | Epoch Time: 29.18 s
+Epoch 059 | learning rate: 0.0113 | Train Loss: 1.4153 | Train Acc: 0.4997 | Epoch Time: 28.68 s
+Epoch 060 | learning rate: 0.0107 | Train Loss: 1.4142 | Train Acc: 0.5024 | Valid Loss: 1.4899 | Valid Acc: 0.4600 | Epoch Time: 28.70 s
+Epoch 061 | learning rate: 0.0107 | Train Loss: 1.4169 | Train Acc: 0.4998 | Epoch Time: 28.87 s
+Epoch 062 | learning rate: 0.0102 | Train Loss: 1.4130 | Train Acc: 0.5024 | Epoch Time: 29.01 s
+Epoch 063 | learning rate: 0.0102 | Train Loss: 1.4110 | Train Acc: 0.5015 | Epoch Time: 28.83 s
+Epoch 064 | learning rate: 0.0097 | Train Loss: 1.4157 | Train Acc: 0.5033 | Epoch Time: 29.02 s
+Epoch 065 | learning rate: 0.0097 | Train Loss: 1.4085 | Train Acc: 0.5049 | Valid Loss: 1.4914 | Valid Acc: 0.4780 | Epoch Time: 28.93 s
+Epoch 066 | learning rate: 0.0097 | Train Loss: 1.4083 | Train Acc: 0.5053 | Epoch Time: 28.92 s
+Epoch 067 | learning rate: 0.0097 | Train Loss: 1.4130 | Train Acc: 0.5017 | Epoch Time: 28.60 s
+Epoch 068 | learning rate: 0.0097 | Train Loss: 1.4093 | Train Acc: 0.5019 | Epoch Time: 28.84 s
+Epoch 069 | learning rate: 0.0097 | Train Loss: 1.4139 | Train Acc: 0.5040 | Epoch Time: 28.62 s
+Epoch 070 | learning rate: 0.0097 | Train Loss: 1.4128 | Train Acc: 0.5029 | Valid Loss: 1.4855 | Valid Acc: 0.4515 | Epoch Time: 28.76 s
+Epoch 071 | learning rate: 0.0097 | Train Loss: 1.4104 | Train Acc: 0.5037 | Epoch Time: 28.69 s
+Epoch 072 | learning rate: 0.0097 | Train Loss: 1.4105 | Train Acc: 0.5024 | Epoch Time: 28.70 s
+Epoch 073 | learning rate: 0.0097 | Train Loss: 1.4069 | Train Acc: 0.5025 | Epoch Time: 28.56 s
+Epoch 074 | learning rate: 0.0097 | Train Loss: 1.4098 | Train Acc: 0.5029 | Epoch Time: 28.70 s
+Epoch 075 | learning rate: 0.0097 | Train Loss: 1.4158 | Train Acc: 0.5026 | Valid Loss: 1.5006 | Valid Acc: 0.4630 | Epoch Time: 28.72 s
+Epoch 076 | learning rate: 0.0097 | Train Loss: 1.4088 | Train Acc: 0.5035 | Epoch Time: 28.72 s
+Epoch 077 | learning rate: 0.0097 | Train Loss: 1.4106 | Train Acc: 0.5023 | Epoch Time: 28.82 s
+Epoch 078 | learning rate: 0.0097 | Train Loss: 1.4092 | Train Acc: 0.5035 | Epoch Time: 28.75 s
+Epoch 079 | learning rate: 0.0097 | Train Loss: 1.4122 | Train Acc: 0.5020 | Epoch Time: 28.86 s
+Epoch 080 | learning rate: 0.0097 | Train Loss: 1.4047 | Train Acc: 0.5038 | Valid Loss: 1.5587 | Valid Acc: 0.4350 | Epoch Time: 28.80 s
+Epoch 081 | learning rate: 0.0097 | Train Loss: 1.4101 | Train Acc: 0.5020 | Epoch Time: 28.99 s
+Epoch 082 | learning rate: 0.0097 | Train Loss: 1.4092 | Train Acc: 0.5020 | Epoch Time: 29.03 s
+Epoch 083 | learning rate: 0.0097 | Train Loss: 1.4033 | Train Acc: 0.5057 | Epoch Time: 28.93 s
+Epoch 084 | learning rate: 0.0097 | Train Loss: 1.4081 | Train Acc: 0.5030 | Epoch Time: 28.89 s
+Epoch 085 | learning rate: 0.0097 | Train Loss: 1.4122 | Train Acc: 0.5023 | Valid Loss: 1.5790 | Valid Acc: 0.4500 | Epoch Time: 29.00 s
+Epoch 086 | learning rate: 0.0097 | Train Loss: 1.4070 | Train Acc: 0.5042 | Epoch Time: 28.86 s
+Epoch 087 | learning rate: 0.0097 | Train Loss: 1.4087 | Train Acc: 0.5022 | Epoch Time: 30.17 s
+Epoch 088 | learning rate: 0.0097 | Train Loss: 1.4061 | Train Acc: 0.5036 | Epoch Time: 29.06 s
+Epoch 089 | learning rate: 0.0097 | Train Loss: 1.4079 | Train Acc: 0.5034 | Epoch Time: 29.23 s
+Epoch 090 | learning rate: 0.0097 | Train Loss: 1.4095 | Train Acc: 0.5029 | Valid Loss: 1.4889 | Valid Acc: 0.4660 | Epoch Time: 28.78 s
+Epoch 091 | learning rate: 0.0097 | Train Loss: 1.4116 | Train Acc: 0.5012 | Epoch Time: 28.74 s
+Epoch 092 | learning rate: 0.0097 | Train Loss: 1.4066 | Train Acc: 0.5036 | Epoch Time: 28.59 s
+Epoch 093 | learning rate: 0.0097 | Train Loss: 1.4091 | Train Acc: 0.5022 | Epoch Time: 28.67 s
+Epoch 094 | learning rate: 0.0097 | Train Loss: 1.4083 | Train Acc: 0.5043 | Epoch Time: 28.65 s
+Epoch 095 | learning rate: 0.0097 | Train Loss: 1.4068 | Train Acc: 0.5046 | Valid Loss: 1.4648 | Valid Acc: 0.4770 | Epoch Time: 28.56 s
+Epoch 096 | learning rate: 0.0097 | Train Loss: 1.4150 | Train Acc: 0.4996 | Epoch Time: 28.67 s
+Epoch 097 | learning rate: 0.0097 | Train Loss: 1.4086 | Train Acc: 0.5042 | Epoch Time: 28.57 s
+Epoch 098 | learning rate: 0.0097 | Train Loss: 1.4098 | Train Acc: 0.5015 | Epoch Time: 29.88 s
+Epoch 099 | learning rate: 0.0097 | Train Loss: 1.4134 | Train Acc: 0.5020 | Epoch Time: 28.82 s
+Epoch 100 | learning rate: 0.0097 | Train Loss: 1.4058 | Train Acc: 0.5040 | Valid Loss: 1.4913 | Valid Acc: 0.4735 | Epoch Time: 28.92 s
