@@ -1,0 +1,1 @@
+[{"input_dim": 3072, "output_dim": 256, "activation": "relu"}, {"input_dim": 256, "output_dim": 32, "activation": "relu"}, {"input_dim": 32, "output_dim": 10, "activation": "softmax"}]
